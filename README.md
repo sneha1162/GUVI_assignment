@@ -1,6 +1,7 @@
 # GUVI Assignment - User Management Web App
 
-A complete responsive web application for user registration, login, and profile management using modern web technologies.
+A complete responsive User Management Web App built for the GUVI assignment. This project strictly follows the provided constraints including separation of frontend/backend languages, jQuery AJAX-only communication, secure authentication, and multi-database storage.
+
 
 ## Features
 
