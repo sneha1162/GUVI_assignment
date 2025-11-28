@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": 1,
+        "bio": "Sample bio for user 1",
+        "email": "user1@example.com",
+        "updated_at": "2023-01-01 12:00:00"
+    },
+    {
+        "user_id": 2,
+        "bio": "Another sample bio",
+        "email": "user2@example.com",
+        "updated_at": "2023-01-02 13:00:00"
+    }
+]
